@@ -3,11 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://responsereadyinc.github.io/</loc>
+  </url>
+  
+  <url>
     <loc>https://responsereadyinc.github.io/categories/</loc>
   </url>
   
   <url>
-    <loc>https://responsereadyinc.github.io/</loc>
+    <loc>https://responsereadyinc.github.io/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>https://responsereadyinc.github.io/courses/</loc>
+  </url>
+  
+  <url>
+    <loc>https://responsereadyinc.github.io/staff/</loc>
   </url>
   
   <url>
