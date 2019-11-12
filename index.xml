@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
   <channel>
     <title>About on Response Ready / Intervention Rapide Inc.</title>
     <link>https://responsereadyinc.github.io/</link>
@@ -7,7 +6,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://responsereadyinc.github.io/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://responsereadyinc.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -16,11 +15,12 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://responsereadyinc.github.io/contact/</guid>
-      <description>Response Ready/Intervention Rapide Inc.
+      
+        <description>Response Ready/Intervention Rapide Inc.
 Steve – 204-880-8360
 Andre – 204-297-7431
-responsereadyinc@outlook.com
-www.responsereadyinc.ca</description>
+email</description>
+      
     </item>
     
     <item>
@@ -29,8 +29,10 @@ www.responsereadyinc.ca</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://responsereadyinc.github.io/courses/</guid>
-      <description>BLS (Basic Life Support) Basic Life Support (BLS) is the foundation for saving lives. It is designed for healthcare providers and trained first responders who provide care to patients in a wide variety of settings or by those in a healthcare training program.
+      
+        <description>BLS (Basic Life Support) Basic Life Support (BLS) is the foundation for saving lives. It is designed for healthcare providers and trained first responders who provide care to patients in a wide variety of settings or by those in a healthcare training program.
 Basic Life Support teaches single-rescuer and team basic life support skills for application in both pre-hospital and in-facility environments, with a focus on high-quality CPR and team dynamics.</description>
+      
     </item>
     
     <item>
@@ -39,7 +41,9 @@ Basic Life Support teaches single-rescuer and team basic life support skills for
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://responsereadyinc.github.io/staff/</guid>
-      <description>Steve Brglez is an owner / operator of Response Ready Inc. providing Emergency Response / CPR training throughout Manitoba. Steve has worked for the Winnipeg Fire Paramedic Service as an Advanced Care Paramedic for 13 years in numerous capacities including with the Winnipeg Police Tactical Emergency Medical Services Unit and as a Community Paramedic. He currently operates as a District Chief of Paramedic Operations for WFPS. He has a desire to teach and provide quality emergency training to the citizens of Manitoba.</description>
+      
+        <description>Steve Brglez is an owner / operator of Response Ready Inc. providing Emergency Response / CPR training throughout Manitoba. Steve has worked for the Winnipeg Fire Paramedic Service as an Advanced Care Paramedic for 13 years in numerous capacities including with the Winnipeg Police Tactical Emergency Medical Services Unit and as a Community Paramedic. He currently operates as a District Chief of Paramedic Operations for WFPS. He has a desire to teach and provide quality emergency training to the citizens of Manitoba.</description>
+      
     </item>
     
   </channel>
