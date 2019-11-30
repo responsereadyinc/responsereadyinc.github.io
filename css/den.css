@@ -55,6 +55,9 @@
   dl.row dt {
     text-align: right;
   }
+  .logo-title {
+    display: none;
+  }
 }
 @media (max-width: 767px) {
   .header-nav .nav-menu {
@@ -69,7 +72,7 @@
     right: 0;
     left: 0;
     z-index: 1030;
-    background-color: #17406d;
+    background-color: #000;
   }
   .header-nav .header-logo-image {
     display: none;
@@ -239,7 +242,7 @@ h4:after {
 /* Navbar */
 .header-nav {
   color: #fff;
-  font-size: 12px;
+  font-size: 16px;
   font-weight: 600;
 }
 .header-nav .nav-menu a {
