@@ -1,32 +1,32 @@
-<?xml-stylesheet type="text/xsl" href="https://responsereadyinc.github.io/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://responsereadyinc.ca/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://responsereadyinc.github.io/</loc>
+    <loc>https://responsereadyinc.ca/</loc>
   </url>
   
   <url>
-    <loc>https://responsereadyinc.github.io/categories/</loc>
+    <loc>https://responsereadyinc.ca/categories/</loc>
   </url>
   
   <url>
-    <loc>https://responsereadyinc.github.io/contact/</loc>
+    <loc>https://responsereadyinc.ca/contact/</loc>
   </url>
   
   <url>
-    <loc>https://responsereadyinc.github.io/courses/</loc>
+    <loc>https://responsereadyinc.ca/courses/</loc>
   </url>
   
   <url>
-    <loc>https://responsereadyinc.github.io/staff/</loc>
+    <loc>https://responsereadyinc.ca/staff/</loc>
   </url>
   
   <url>
-    <loc>https://responsereadyinc.github.io/tags/</loc>
+    <loc>https://responsereadyinc.ca/tags/</loc>
   </url>
   
   <url>
-    <loc>https://responsereadyinc.github.io/targetedspecialty/</loc>
+    <loc>https://responsereadyinc.ca/targetedspecialty/</loc>
   </url>
   
 </urlset>
